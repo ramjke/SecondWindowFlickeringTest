@@ -2,9 +2,13 @@
 
 This project demonstrates a bug in WinUI 3 where enabling `ExtendsContentIntoTitleBar` in the main window causes child windows to receive incorrect cursor signals.  
 
+
 ## 🐛 Bug Description  
 
 When `ExtendsContentIntoTitleBar = true;` is set in the main window, and main window is minimized, child windows start incorrectly processing cursor events.  
+
+## Video
+https://github.com/user-attachments/assets/c7e1eb53-94b9-4491-818e-b033b3c86041
 
 ### Reproduction Steps  
 
