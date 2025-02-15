@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SecondWindowFlickeringTest (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SecondWindowFlickeringTest (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
