@@ -14,6 +14,6 @@
         VerticalAlignment="Center"
         Orientation="Horizontal">
         <ToggleSwitch PointerEntered="ToggleSwitch_PointerEntered" />
-        <Button PointerEntered="Button_PointerEntered" Content="Standard XAML button" />
+        <Button PointerEntered="Button_PointerEntered" Content="Show Second Window" />
     </StackPanel>
 </Window>
