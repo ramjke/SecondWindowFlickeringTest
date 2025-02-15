@@ -13,7 +13,7 @@
         HorizontalAlignment="Center"
         VerticalAlignment="Center"
         Orientation="Horizontal">
-        <ToggleSwitch PointerEntered="ToggleSwitch_PointerEntered" />
-        <Button PointerEntered="Button_PointerEntered" Content="Show Second Window" />
+        <ToggleSwitch OffContent="Hover over and check Debug Console" PointerEntered="ToggleSwitch_PointerEntered" />
+        <Button Content="Hover over and check Debug Console" PointerEntered="Button_PointerEntered" />
     </StackPanel>
 </Window>
